@@ -1,21 +1,20 @@
 ---
 layout: page
-title: About
+title: Why?
 ---
 
-## Ultra - Super fast Jekyll theme 
+## For fun and learning 
 
-Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
+I was reading a conversation on Matrix in the ArchLinux room where a user mentioned it would be funny if there was a distribution called Arselinux, mainly because the domain would so close to Archlinux.org, I saw the domain was available and just bought it. Within 5 minutes someone in that room noticed it was unavailable and they laughed about it. 
 
-### Key features
+I sat on the domain for a while thinking ultimately what I will do with it, so I figured I'd use it as a vehicle for learning. 
 
-- seo optimized
-- weighs under 2kb
-- portfolio/blog pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
+Building my own ISO which teaches me more of how Linux is built and what is required.
+Repositories and packaging
+Working with git and Github
+Managing a little website for the project
+and whatever else comes from it. 
+
+Ultimately this is pointless to be used as a daily driver but that's not the point. The point is to just have a bit of fun and use that fun to expedite my learning. 
+
+
