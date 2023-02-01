@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Why
+permalink: /why/
 ---
 
-# Why?
 
 ## For fun and learning
 
