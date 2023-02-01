@@ -4,26 +4,18 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+# Why?
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+## For fun and learning
 
-## Features
+I was reading a conversation on Matrix in the ArchLinux room where a user mentioned it would be funny if there was a distribution called Arselinux, mainly because the domain would so close to Archlinux.org, I saw the domain was available and just bought it. Within 5 minutes someone in that room noticed it was unavailable and they laughed about it.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+I sat on the domain for a while thinking ultimately what I will do with it, so I figured I'd use it as a vehicle for learning.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+    Building my own ISO which teaches me more of how Linux is built and what is required.
+    Repositories and packaging
+    Working with git and Github
+    Managing a little website for the project
+    And whatever else comes from it.
+
+Ultimately this is pointless to be used as a daily driver but that's not the point. The point is to just have a bit of fun and use that fun to expedite my learning.
