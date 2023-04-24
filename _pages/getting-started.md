@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Getting started with Reverie
+title: Getting started with building your own ArseLinux OS
 permalink: /getting-started/
 ---
 
+The ISO files are already available here - https://github.com/ArseLinuxOS-Development/ArseLinuxOS-ISO/releases
+
+But if you wish to help out with development it's always handy to know how to build an ISO yourself.
 
 [ArseLinuxOS-ISO](https://github.com/ArseLinuxOS-Development/ArseLinuxOS-ISO)
 
